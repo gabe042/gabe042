@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Uncategorized &#8211; PowerSol</title>
-	<atom:link href="http://powersol.club/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<title>gabe042 &#8211; PowerSol</title>
+	<atom:link href="http://powersol.club/author/gabe042/feed/" rel="self" type="application/rss+xml" />
 	<link>http://powersol.club</link>
 	<description>Clube de Energia Solar</description>
 	<lastBuildDate>Tue, 08 Mar 2022 02:22:52 +0000</lastBuildDate>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>http://powersol.club/wp-content/uploads/2022/03/cropped-PowerSol-32x32.png</url>
-	<title>Uncategorized &#8211; PowerSol</title>
+	<title>gabe042 &#8211; PowerSol</title>
 	<link>http://powersol.club</link>
 	<width>32</width>
 	<height>32</height>

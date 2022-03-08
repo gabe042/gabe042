@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>ClubSolar</title>
+	<title>PowerSol</title>
 	<atom:link href="http://powersol.club/feed/" rel="self" type="application/rss+xml" />
 	<link>http://powersol.club</link>
-	<description>Just another WordPress site</description>
+	<description>Clube de Energia Solar</description>
 	<lastBuildDate>Tue, 08 Mar 2022 02:22:52 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.9.1</generator>
+
+<image>
+	<url>http://powersol.club/wp-content/uploads/2022/03/cropped-PowerSol-32x32.png</url>
+	<title>PowerSol</title>
+	<link>http://powersol.club</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Hello world!</title>
 		<link>http://powersol.club/2022/03/08/hello-world/</link>
